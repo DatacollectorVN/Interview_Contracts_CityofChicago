@@ -364,7 +364,6 @@ def main():
     _render_vendor_spend()
     
 
-
 if __name__ == "__main__":
     main()
 
